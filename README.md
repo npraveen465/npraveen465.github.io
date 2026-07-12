@@ -4,7 +4,7 @@ CMSC 320 Final Project Tutorial — University of Maryland
 
 **Authors:** Nakul Praveen, Samuel Antonielli, Pratyaksh Mishra, Toby Nwadiaro
 
-**Live tutorial:** https://npraveen465.github.io/
+**Live tutorial:** https://npraveen465.github.io/CMSC320FinalProject/
 
 ## About
 
