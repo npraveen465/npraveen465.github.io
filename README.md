@@ -24,7 +24,7 @@ The tutorial covers the full data science pipeline:
 ```
 CMSC320FinalProject/
 ├── index.html    # Rendered tutorial (this is what GitHub Pages serves)
-└── *.ipynb        # Source Jupyter notebook
+└── NFL_Final_Project.ipynb        # Source Jupyter notebook
 ```
 
 ## Running it yourself
