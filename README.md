@@ -32,4 +32,4 @@ CMSC320FinalProject/
 1. Clone this repository.
 2. Download `combine.csv` and `draft.csv` from the [Kaggle dataset](https://www.kaggle.com/datasets/toddsteussie/nfl-play-statistics-dataset-2004-to-present) and place them in the `CMSC320FinalProject/` folder.
 3. Install dependencies: `pip install pandas numpy matplotlib seaborn scipy scikit-learn`
-4. Open and run `CMSC320_NFL_Final_Project.ipynb` in Jupyter.
+4. Open and run `NFL_Final_Project.ipynb` in Jupyter.
