@@ -4,7 +4,7 @@ CMSC 320 Final Project Tutorial — University of Maryland
 
 **Authors:** Nakul Praveen, Samuel Antonielli, Pratyaksh Mishra, Toby Nwadiaro
 
-**Live tutorial:** https://npraveen465.github.io/CMSC320FinalProject/
+**Live tutorial:** https://npraveen465.github.io/
 
 ## About
 
@@ -22,14 +22,13 @@ The tutorial covers the full data science pipeline:
 ## Repository contents
 
 ```
-CMSC320FinalProject/
-├── index.html    # Rendered tutorial (this is what GitHub Pages serves)
-└── NFL_Final_Project.ipynb        # Source Jupyter notebook
+index.html                    # Rendered tutorial (this is what GitHub Pages serves)
+NFL_Final_Project.ipynb        # Source Jupyter notebook
 ```
 
 ## Running it yourself
 
 1. Clone this repository.
-2. Download `combine.csv` and `draft.csv` from the [Kaggle dataset](https://www.kaggle.com/datasets/toddsteussie/nfl-play-statistics-dataset-2004-to-present) and place them in the `CMSC320FinalProject/` folder.
+2. Download `combine.csv` and `draft.csv` from the [Kaggle dataset](https://www.kaggle.com/datasets/toddsteussie/nfl-play-statistics-dataset-2004-to-present) and place them in the repository root.
 3. Install dependencies: `pip install pandas numpy matplotlib seaborn scipy scikit-learn`
 4. Open and run `NFL_Final_Project.ipynb` in Jupyter.
